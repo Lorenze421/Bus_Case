@@ -1,0 +1,1 @@
+This repository contains documentation that are used as inputs to the AI Agent Business Case Developer Project.  It is intended to be used to develop business cases, cost/bebefits, both qualitative and quantitative, and ROI estimates for VA IT projects.  Initially, the project will focus on COO PMO projects. 
